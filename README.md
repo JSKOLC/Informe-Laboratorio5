@@ -19,7 +19,9 @@ GENERAL:
 
 
 Desarrollar con el teorema de Thevenin la practica, de manera teórica, experimental y matemática,
+
 por medio de la realizacion de una serie de pasos lo cual se llevará de forma matemática, y comparar
+
 los resultados obtenido apoyándonos con herramientas como TinkerCad.
 
 
