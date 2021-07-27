@@ -15,6 +15,29 @@ TEMA: TEOREMA DE THÉVENIN
 
 5.1. OBJETIVOS DE LA PRÁCTICA:
 
+GENERAL:
+
+
+Acostumbrar al alumno con el teorema de Thevenin, de manera teórica, experimental y matemática,
+por medio del desarrollo de una serie de pasos lo cual se llevará de forma matemática, y comparar
+los resultados obtenido apoyándonos con herramientas como TinkerCad.
+
+
+ESPECIFICOS:
+
+
+Analizar y verificar en forma experimental el teorema de Thevenin.
+
+Abstraer de forma clara y práctica el motivo por el cual se usan estos dos teoremas a la hora
+de analizar circuitos.
+
+Reconocer los diferentes tipos de conversiones de fuentes.
+
+Reducir la complejidad de circuitos eléctricos, utilizando los teoremas de Thévenin para facilitar su análisis.
+
+Adquirir destreza en el análisis, simulación y montaje de circuitos eléctricos; aplicando los teoremas.
+
+
 
 5.2. MARCO TEÓRICO:
 
@@ -107,6 +130,17 @@ Tabla 5.2 Comprobación del Teorema de Thévenin.
 
 
 5.7. CONCLUSIONES:
+
+Con la práctica hemos aprendido a representar circuitos un poco largos de una manera fácil y con un circuito muy sencillo,
+aprendiendo que los circuitos pueden tener los mismos valores, pero con una diversidad de elementos, y que el multímetro
+un instrumento muy útil para circuitos.
+
+Hemos podido visualizar tanto física como experimental y matemáticamente como se emplea el Teorema de Thevenin, el cual consiste 
+en que el valor de las resistencias puede ser sustituida por otra fuente de tensión.
+
+Este teorema establece que cualquier red de corriente directa lineal bilateral de dos terminales puede ser reemplazada 
+por un circuito equivalente que conste de una fuente de voltaje y un resistor en serie.
+
 
 
 5.8. BIBLIOGRAFÍA :
