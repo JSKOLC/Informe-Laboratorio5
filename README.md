@@ -30,7 +30,7 @@ ESPECIFICOS:
 
 Analizar y verificar en forma experimental el teorema de Thevenin.
 
-Abstraer de forma clara y práctica el motivo por el cual se usan estos dos teoremas a la hora
+Abstraer de forma clara y práctica el motivo por el cual se usa este dos teoremas a la hora
 de analizar circuitos.
 
 Reconocer los diferentes tipos de conversiones de fuentes.
